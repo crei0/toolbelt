@@ -2,6 +2,7 @@
 	"always_show_minimap_viewport": true,
 	"bold_folder_labels": true,
 	"color_scheme": "Packages/User/SublimeLinter/Dark-Material (SL).tmTheme",
+	"folder_exclude_patterns": ["node_modules"],
 	"file_exclude_patterns":
 	[
 		"*.pyc",
